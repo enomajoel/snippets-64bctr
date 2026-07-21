@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enomajoel.github.io/snippets-64bctr/sitemap.xml
